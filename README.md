@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&fontSize=20&rotate=-30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&fontSize=20&rotate=-30&color=auto"/>
 
 </p>
 
@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer&color=auto"/>
 </p>
