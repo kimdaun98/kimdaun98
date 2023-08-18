@@ -1,9 +1,8 @@
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=JParkBro's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
 </p>
 
-<div align='center'> 🖥열심히 공부하고 있는 신입 모바일 앱 개발자입니다.</div>
+<div align='center'> 🖥열심히 공부하고 있는 신입 개발자입니다.</div>
 <br>
 <div align='center'> Email : kimdaunY98@gmail.com</div>
 <br>
