@@ -1,6 +1,7 @@
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30" />
+<img src="  https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer&rotate=-30" />
+
 </p>
 
 
