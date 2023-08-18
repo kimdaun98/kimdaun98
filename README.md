@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&IDEA&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%#61DAFB?style=flat&logo=AndroidStudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" />
  </div>
 <br>
