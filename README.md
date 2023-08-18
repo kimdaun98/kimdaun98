@@ -1,7 +1,6 @@
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?&type=waving&fontSize=20&rotate=-30&color=timeAuto"/>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=DUD-KimDaUn%20render&fontSize=90" />
 
 </p>
 
