@@ -1,7 +1,8 @@
 <br>
 <p align="center">
-<img src="[https://capsule-render.vercel.app/api?type=Wave&color=timeAuto&height=100&rotate=0&section=footer](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)" />
+<img src="https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30" />
 </p>
+
 
 <div align='center'> 🖥열심히 공부하고 있는 신입 개발자입니다.</div>
 <br>
