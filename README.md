@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer&rotate=-180" />
+<img src="https://capsule-render.vercel.app/api?type=waving&rotate=-180&color=timeAuto&height=100&section=footer" />
 
 </p>
 
