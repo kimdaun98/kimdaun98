@@ -5,8 +5,7 @@
 
 <div align='center'> 🖥열심히 공부하고 있는 신입 모바일 앱 개발자입니다.</div>
 <br>
-<div align='center'> Email : hyeongjoopark0324@gmail.com</div>
-<div align='center'> Blog : <a href="https://velog.io/@j_park_bro">https://velog.io/@j_park_bro</a></div>
+<div align='center'> Email : kimdaunY98@gmail.com</div>
 <br>
 <div align = "center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
