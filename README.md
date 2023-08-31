@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&IDEA&logoColor=white" />
 <br>
-  <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white" />
  </div>
 <br>
