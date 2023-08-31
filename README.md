@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&IDEA&logoColor=white" />
 <br>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white" />
